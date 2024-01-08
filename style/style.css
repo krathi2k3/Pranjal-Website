@@ -443,11 +443,6 @@ ul li a:hover {
  }
  
  
- .testimonial.quote {
-   background-image: url("./images/bg-pattern-quotation.svg");
-   background-repeat: no-repeat;
-   background-position: top right 10%;
- }
  
  .testimonial img {
    width: 1.75rem;
@@ -542,7 +537,11 @@ ul li a:hover {
   color: #fff;
   border-radius: 9px;
  }
- 
+
  #submitbt:hover{
   background-color: #9333ea;
+ }
+
+ #submitted-details{
+  margin-left: 200px;
  }
